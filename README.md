@@ -44,3 +44,6 @@ Generación de reportes: Se debe generar al menos un reporte que presente los re
 Fecha de presentación: 26/06/2023 - 29/06/2023 20:00 Hs
 
 Exposición:  30/06/2023
+
+ALUMNO KEVIN AGUI MANERA TECNICATURA EN CIENCIA DE DATOS COHORTE 2022 SALA 2 DE ISPC
+Proyecto de analisis de datos y ciencia de datos y en parte de big data sobre datos de vivienda de varios datasets de Colombia. Trabajado en google colab y reporte generado en base a dicho archivo en formato ipynb para su correcta visualización. Se deben cargar en este enlace https://colab.research.google.com/drive/1Hsf2EcHyrd6TrZ3Un8PlzDLIDdu18J5z#scrollTo=4dgRTc6NV-xV  todos los datasets colocados en el repositorio para poder trabajar con el proyecto correctamente, algunos son muy pesados para su procesamiento y ahi estuvo la principal dificultad del trabajo el lidiar con archivos tan grandes para su analisis. En sintesis cargar los datasets al cuaderno e ir instalando las librerias necesarias en el cuaderno para proceder al analisis.
